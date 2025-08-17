@@ -1,2 +1,4 @@
+<img width="1338" height="783" alt="image" src="https://github.com/user-attachments/assets/33920da0-4069-4aec-9d67-a5b3b472f20e" />
+
 This report offers a focused snapshot of student academic performance across key demographics and influencing factors, including gender, race/ethnicity, lunch status, parental education, and test preparation.
 With an overall average score of 203.31, the dashboard highlights disparities such as: A 25.91 point gap in scores based on lunch status, showing lower performance among students on free/reduced lunch. Students who completed a test prep course outperformed those who didn’t by a significant margin (218 vs. 195).Gender-based performance is closely matched, while differences emerge more prominently across race/ethnicity and parental education levels. Standard lunch students consistently show higher averages in reading, writing, and math compared to their peers on free/reduced lunch.
